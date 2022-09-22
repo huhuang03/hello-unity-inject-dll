@@ -1,0 +1,10 @@
+In this post, we discuss how to inject a dll to the game.
+
+And how use game dll.
+
+* load our inject.dll
+
+We use frida to load our dll. The core code is:
+
+
+* use game.dll
